@@ -11,7 +11,9 @@
     --border-color: #931420;
 }
 
-
+html {
+    background-color: white;
+}
 /* the styles for the elements */
 body {
     font-family: Arial, Helvetica, sans-serif;
