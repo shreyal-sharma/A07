@@ -11,6 +11,10 @@
     --border-color: #931420;
 }
 
+html, body {
+    background-color: white;
+}
+
 /* the styles for the elements */
 body {
     font-family: Arial, Helvetica, sans-serif;
@@ -18,11 +22,7 @@ body {
     width: 600px;
     margin: 0 auto;
     border: 3px solid var(--border-color);
-    background-color: #fffded;
-}
-
-html {
-    background-color: white;
+    background-color: #fffded; /* or whatever background color you prefer for the body */
 }
 
 a:focus, a:hover {
