@@ -21,7 +21,6 @@ body {
     width: 600px;
     margin: 0 auto;
     border: 3px solid var(--border-color);
-    background-color: #fffded; /* or whatever background color you prefer for the body */
 }
 
 a:focus, a:hover {
