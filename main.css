@@ -12,8 +12,8 @@
 }
 
 html {
-    background-color: white;
-}
+    background-color: white; 
+
 /* the styles for the elements */
 body {
     font-family: Arial, Helvetica, sans-serif;
@@ -21,7 +21,9 @@ body {
     width: 600px;
     margin: 0 auto;
     border: 3px solid var(--border-color);
+    background-color: #fffded; /* Set background color for the body element */
 }
+
 
 a:focus, a:hover {
     font-style: italic;
